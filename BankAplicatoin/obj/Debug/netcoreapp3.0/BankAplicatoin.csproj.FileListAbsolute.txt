@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\BankAplicatoin\BankAplicatoin\bin\Debug\netcoreapp3.0\BankAplicatoin.exe
+C:\Users\User\source\repos\BankAplicatoin\BankAplicatoin\bin\Debug\netcoreapp3.0\BankAplicatoin.deps.json
+C:\Users\User\source\repos\BankAplicatoin\BankAplicatoin\bin\Debug\netcoreapp3.0\BankAplicatoin.runtimeconfig.json
+C:\Users\User\source\repos\BankAplicatoin\BankAplicatoin\bin\Debug\netcoreapp3.0\BankAplicatoin.runtimeconfig.dev.json
+C:\Users\User\source\repos\BankAplicatoin\BankAplicatoin\bin\Debug\netcoreapp3.0\BankAplicatoin.dll
+C:\Users\User\source\repos\BankAplicatoin\BankAplicatoin\bin\Debug\netcoreapp3.0\BankAplicatoin.pdb
+C:\Users\User\source\repos\BankAplicatoin\BankAplicatoin\obj\Debug\netcoreapp3.0\BankAplicatoin.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BankAplicatoin\BankAplicatoin\obj\Debug\netcoreapp3.0\BankAplicatoin.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BankAplicatoin\BankAplicatoin\obj\Debug\netcoreapp3.0\BankAplicatoin.AssemblyInfo.cs
+C:\Users\User\source\repos\BankAplicatoin\BankAplicatoin\obj\Debug\netcoreapp3.0\BankAplicatoin.dll
+C:\Users\User\source\repos\BankAplicatoin\BankAplicatoin\obj\Debug\netcoreapp3.0\BankAplicatoin.pdb
+C:\Users\User\source\repos\BankAplicatoin\BankAplicatoin\bin\Debug\netcoreapp3.0\BankLibrary.dll
+C:\Users\User\source\repos\BankAplicatoin\BankAplicatoin\bin\Debug\netcoreapp3.0\BankLibrary.pdb
+C:\Users\User\source\repos\BankAplicatoin\BankAplicatoin\obj\Debug\netcoreapp3.0\BankAplicatoin.csproj.CopyComplete
