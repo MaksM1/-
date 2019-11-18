@@ -13,7 +13,7 @@ namespace BankAplicatoin
             {
                 ConsoleColor color = Console.ForegroundColor;
                 Console.ForegroundColor = ConsoleColor.Magenta;
-                Console.WriteLine("1.Открыть счет в банке \t 2.Вывести средства \t 3.Добавить счет");
+                Console.WriteLine("1.Открыть счет в банке \t 2.ААААААААААААВывести средства \t 3.Добавить счет");
                 Console.WriteLine("4.Закрыть счет \t 5.Пропустить день \t 6.Выйти из програмы");
                 Console.WriteLine("Введите номер пункта");
                 Console.ForegroundColor = color;
